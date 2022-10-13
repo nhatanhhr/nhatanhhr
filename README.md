@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @nhatanhhr
-- 👀 I’m interested in supporting Devs to find an appropriate job
-nhatanhhr/nhatanhhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 As a Headhunter, I'm always willing to consult and support developers (all levels) to find the most suitable job based on your expectation with my current job list
+- If you are #OpenToWork, feel free to contact me via Linkedin (https://www.linkedin.com/in/nhatanhforwork/) - Responsive and Available 24/7
